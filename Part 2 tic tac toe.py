@@ -75,18 +75,6 @@ def handle_turn(player):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 def switch_turn():
   global current_player
   if current_player == "X":
